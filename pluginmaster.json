@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "薇薇，萧鸮",
+    "Name": "Indomitable",
+    "Punchline": "优雷卡·豪杰的记忆 体力增加叠加助手",
+    "Description": "在丰水之地/涌火之地用文理双刃剑给『豪杰的记忆』叠体力增加。支持双刃剑及丰水五石小龙路线。",
+    "InternalName": "Indomitable",
+    "AssemblyVersion": "1.1.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "Eureka",
+      "Combat"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "LastUpdate": 1795263678,
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/TheVanses/Indomitable-DalamudRepo/main/plugins/Indomitable/latest.zip",
+    "RepoUrl": "https://github.com/TheVanses/Indomitable-DalamudRepo",
+    "IsHide": false,
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/TheVanses/Indomitable-DalamudRepo/main/plugins/Indomitable/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/TheVanses/Indomitable-DalamudRepo/main/plugins/Indomitable/latest.zip",
+    "IsTestingExclusive": false
+  }
+]
